@@ -41,7 +41,7 @@ const CaseNotepad = ({ onAnalyze, isLoading }: CaseNotepadProps) => {
       <div>
         <h2 className="text-xl font-serif font-bold text-foreground">Case Notepad</h2>
         <p className="text-sm text-muted-foreground mt-1">
-          Describe the case briefly (max two sentences). Select filters to narrow legal accuracy.
+          Briefly describe the case. Use filters to improve legal accuracy.
         </p>
       </div>
 
